@@ -1,3 +1,4 @@
 FROM telegrammessenger/proxy:latest
 ENV SECRET=8f9e0d1c2b3a4f5e6d7c8b9a0f1e2d3c
+ENV PORT=443
 EXPOSE 443
