@@ -1,3 +1,3 @@
 FROM telegrammessenger/proxy:latest
-ENV SECRET=32_abc33367_nadzusx4tgw_gsjxneiaqqvd52
+ENV SECRET=ui_abc33367_nausx4tgw_gsjxneiaqqvd52
 EXPOSE 443
